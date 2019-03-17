@@ -1,0 +1,11 @@
+name = "photojulia"
+uuid = "e9364be0-483f-11e9-3142-4fa45af40a5c"
+authors = ["Juan Carlos Galan Hernandez <jcgalanh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
